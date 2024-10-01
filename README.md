@@ -1,5 +1,15 @@
 # Wallz Gallery
 
+> [!NOTE]
+> Use `git clone` instead of downloading the **ZIP** file from GitHub.
+
+```
+git clone https://github.com/fr0st-iwnl/wallz.git
+```
+
+
+# Themes
+
 Feel free to use them.
 
 | Theme                                                                                                                                                                   | Description                                               |
