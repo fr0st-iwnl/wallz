@@ -8,6 +8,14 @@ git clone https://github.com/fr0st-iwnl/wallz.git
 ```
 
 
+> [!TIP]
+> To update the wallpapers, simply navigate to the folder and type:
+>
+> ```bash
+> git pull
+> ```
+
+
 # Themes
 
 Feel free to use them.
