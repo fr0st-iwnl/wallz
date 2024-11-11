@@ -4,10 +4,9 @@ A collection of cool wallpapers for your desktop.
 # Installation
 > [!NOTE]
 > Use `git clone` instead of downloading the **ZIP** file from GitHub.
-
-```
-git clone https://github.com/fr0st-iwnl/wallz.git
-```
+> ```
+> git clone https://github.com/fr0st-iwnl/wallz.git
+> ```
 
 
 > [!TIP]
