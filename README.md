@@ -65,9 +65,9 @@ Below are just a few of our themes, showcasing a variety of styles. Explore more
   <table>
     <tr>
       <tr><td colspan="3" align="center"><b>🌆 － Tokyo Night</b></td></tr>
-      <td><img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Tokyo%20Night/cat_lofi_cafe.jpg" width="2500" height="200"/></td>
-      <td><img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Tokyo%20Night/wallhaven-jxzd7m.jpg" width="2500" height="200"/></td>
-      <td><img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Tokyo%20Night/tokyo_pink.png" width="2500" height="200"/></td>
+      <td><img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Tokyo%20Night/cat_lofi_cafe.jpg"/></td>
+      <td><img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Tokyo%20Night/wallhaven-jxzd7m.jpg"/></td>
+      <td><img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Tokyo%20Night/tokyo_pink.png"/></td>
     </tr>
     <tr>
       <tr><td colspan="3" align="center"><b>🍭 － Paranoid Sweet</b></td></tr>
