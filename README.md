@@ -2,19 +2,16 @@
 A collection of cool wallpapers for your desktop.
 
 # Installation
-> [!NOTE]
-> Use `git clone` instead of downloading the **ZIP** file from GitHub.
-> ```
-> git clone https://github.com/fr0st-iwnl/wallz.git
-> ```
-
 
 > [!TIP]
-> To update the wallpapers, simply navigate to the folder and type:
->
-> ```bash
-> git pull
+> ### Download with curl
+> Use this in **CMD** on **Windows** (not ~~PowerShell~~), or any terminal on **Linux/macOS**:
 > ```
+> curl -L -o wallz.zip https://github.com/fr0st-iwnl/wallz/releases/latest/download/wallz.zip
+> ```
+> ### Manual Download
+> You can also download the latest release directly from the [Releases page](https://github.com/fr0st-iwnl/wallz/releases/latest) which is simpler.
+
 
 # Themes
 All of our themes are listed below.
