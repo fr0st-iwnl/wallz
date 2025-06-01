@@ -1,7 +1,7 @@
 # ⛅ \\\ Wallz Gallery
 A collection of cool wallpapers for your desktop.
 
-# Installation
+# 📦 Installation
 
 > [!TIP]
 > ### Download with curl
@@ -13,7 +13,7 @@ A collection of cool wallpapers for your desktop.
 > You can also download the latest release directly from the [Releases page](https://github.com/fr0st-iwnl/wallz/releases/latest) which is simpler.
 
 
-# Themes
+# 🎨 Themes
 All of our themes are listed below.
 
 <div align="center">
@@ -49,6 +49,9 @@ All of our themes are listed below.
 
   </td></tr></table>
 </div>
+
+## 🖼️ Artwork Credits
+I'm not the creator of these images. All credit goes to the original artists.
 
 
 <!---
@@ -100,7 +103,7 @@ Below are just a few of our themes, showcasing a variety of styles. Explore more
 </div>
 --->
 
-## Contributing
+## 🤝 Contributing
 
 We welcome contributions to help grow the theme collection and add new wallpapers! If you're interested in contributing, please check out the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines and instructions.
 
