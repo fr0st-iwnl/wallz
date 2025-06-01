@@ -8,7 +8,6 @@ Guidelines for Wallpaper Submission
  -  **Resolution**: Wallpapers should be high-resolution, ideally at least `1920x1080` or higher.
  -  **Quality**: Ensure wallpapers are clear and visually appealing. Avoid pixelation and blurry images.
  -  **File Format**: Use **.jpg**, **.jpeg**, or **.png** formats only.
- -  **File Naming**: Name files descriptively using lowercase letters and hyphens, `(e.g., sunset-beach.jpg)`.
  -  **Category Folders**: Place each wallpaper in the category folder that best fits its style. `(e.g., Sci-fi, Dracula)`.
 
 
@@ -24,8 +23,13 @@ Guidelines for Wallpaper Submission
    ```
    
 3. Place the **wallpaper** in the correct category folder.
-4. **Stage Your Changes**: `git add .`
-5. **Commit Your Changes**: `git commit -m "Add new wallpapers"`
-6. **Push to Your Fork**: `git push origin main`
+4. **Run the Renaming Script**: After adding your wallpapers, run the renaming script to ensure consistent naming:
+   ```bash
+   python3 rename_wallpapers.py
+   ```
+   This script will automatically rename all wallpapers with a consistent format (e.g., `01. Category Name.png`).
+5. **Stage Your Changes**: `git add .`
+6. **Commit Your Changes**: `git commit -m "Add new wallpapers"`
+7. **Push to Your Fork**: `git push origin main`
 
  - Thank you again for helping to improve this wallpapers repository! 🎉
