@@ -1,6 +1,6 @@
 # ⛅ \\\ Wallz Gallery
 A collection of cool wallpapers for your desktop.
-
+<a id="top"></a>
 # 📦 Installation
 
 > [!TIP]
@@ -121,6 +121,12 @@ I'm not the creator of these images. All credit goes to the original artists.
 ## 🤝 Contributing
 
 We welcome contributions to help grow the theme collection and add new wallpapers! If you're interested in contributing, please check out the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines and instructions.
+
+###### <div align="center"><sub id="-design-by-fr0st.xyz">Design by <a href="https://fr0st.xyz">fr0st.xyz</a></sub></div>
+
+<div align="center">
+  <a href="#top"><kbd>↑ Back to Top</kbd></a>
+</div>
 
 <!---
 
