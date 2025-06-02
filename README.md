@@ -50,9 +50,77 @@ All of our themes are listed below.
   </td></tr></table>
 </div>
 
+<details>
+ <summary>🔍 <strong>Preview</strong> some of the themes from above :)</summary>
+
+  <h4 align="center"><div align="center"><table><tr></tr><tr><td>☕ Catppuccin Mocha</tr></table></div></h4>
+  <p align="center">
+    <div align="left"><table><tr></tr><tr><td>
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Catppuccin%20Mocha/04.%20Catppuccin%20Mocha.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Catppuccin%20Mocha/05.%20Catppuccin%20Mocha.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Catppuccin%20Mocha/26.%20Catppuccin%20Mocha.jpg">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Catppuccin%20Mocha/27.%20Catppuccin%20Mocha.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Catppuccin%20Mocha/15.%20Catppuccin%20Mocha.jpg">
+      </tr></table></div>
+  </p>
+
+  <h4 align="center"><div align="center"><table><tr></tr><tr><td>🪨 Graphite Mono</tr></table></div></h4>
+  <p align="center">
+    <div align="left"><table><tr></tr><tr><td>
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Graphite%20Mono/02.%20Graphite%20Mono.jpg">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Graphite%20Mono/16.%20Graphite%20Mono.jpg">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Graphite%20Mono/22.%20Graphite%20Mono.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Graphite%20Mono/23.%20Graphite%20Mono.jpg">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Graphite%20Mono/18.%20Graphite%20Mono.jpg">
+      </tr></table></div>
+  </p>
+  
+  <h4 align="center"><div align="center"><table><tr></tr><tr><td>🌿 Green Lush</tr></table></div></h4>
+  <p align="center">
+    <div align="left"><table><tr></tr><tr><td>
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Green%20Lush/03.%20Green%20Lush.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Green%20Lush/09.%20Green%20Lush.jpg">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Green%20Lush/05.%20Green%20Lush.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Green%20Lush/04.%20Green%20Lush.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Green%20Lush/12.%20Green%20Lush.png">
+      </tr></table></div>
+  </p>
+
+   <h4 align="center"><div align="center"><table><tr></tr><tr><td>🌹 Red Stone</tr></table></div></h4>
+  <p align="center">
+    <div align="left"><table><tr></tr><tr><td>
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Red%20Stone/01.%20Red%20Stone.jpg">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Red%20Stone/07.%20Red%20Stone.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Red%20Stone/09.%20Red%20Stone.jpg">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Red%20Stone/11.%20Red%20Stone.jpg">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Red%20Stone/10.%20Red%20Stone.jpg">
+      </tr></table></div>
+  </p>
+
+  <h4 align="center"><div align="center"><table><tr></tr><tr><td>🍬 Paranoid Sweet</tr></table></div></h4>
+  <p align="center">
+    <div align="left"><table><tr></tr><tr><td>
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Paranoid%20Sweet/01.%20Paranoid%20Sweet.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Paranoid%20Sweet/05.%20Paranoid%20Sweet.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Paranoid%20Sweet/06.%20Paranoid%20Sweet.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Paranoid%20Sweet/25.%20Paranoid%20Sweet.jpg">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Paranoid%20Sweet/20.%20Paranoid%20Sweet.png">
+      </tr></table></div>
+  </p>
+
+  <h4 align="center"><div align="center"><table><tr></tr><tr><td>📁 And More...</tr></table></div></h4>
+
+</details>
+
+
+
 ## 🖼️ Artwork Credits
 I'm not the creator of these images. All credit goes to the original artists.
 
+
+## 🤝 Contributing
+
+We welcome contributions to help grow the theme collection and add new wallpapers! If you're interested in contributing, please check out the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines and instructions.
 
 <!---
 
@@ -102,10 +170,6 @@ Below are just a few of our themes, showcasing a variety of styles. Explore more
   </table>
 </div>
 --->
-
-## 🤝 Contributing
-
-We welcome contributions to help grow the theme collection and add new wallpapers! If you're interested in contributing, please check out the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines and instructions.
 
 
 <!----
