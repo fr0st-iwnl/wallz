@@ -30,7 +30,6 @@ All of our themes are listed below.
 [![Green-Lush](https://placehold.co/130x30/89E574/153550?text=Green+Lush&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Green%20Lush)
 [![Greenify](https://placehold.co/130x30/0e120f/295233?text=Greenify&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Greenify)
 [![Gruvbox-Retro](https://placehold.co/130x30/353842/ADAE89?text=Gruvbox+Retro&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Gruvbox%20Retro)
-[![Hack-the-Box](https://placehold.co/130x30/061234/50AA09?text=Hack+the+Box&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Hack%20the%20Box)
 [![Mac-OS](https://placehold.co/130x30/857990/B9D7EA?text=Mac+OS&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Mac%20OS)
 [![Material-Sakura](https://placehold.co/130x30/f2e9e1/b4637a?text=Material+Sakura&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Material%20Sakura)
 [![Monokai](https://placehold.co/130x30/2d2a2e/f92672?text=Monokai&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Monokai)
