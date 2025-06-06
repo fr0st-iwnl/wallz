@@ -6,8 +6,8 @@
 Guidelines for Wallpaper Submission
 
  -  **Resolution**: Wallpapers should be high-resolution, ideally at least `1920x1080` or higher.
- -  **Quality**: Ensure wallpapers are clear and visually appealing. Avoid pixelation and blurry images.
- -  **File Format**: Use **.jpg**, **.jpeg**, or **.png** formats only.
+ -  **Quality**: Ensure wallpapers are clear and visually appealing. Avoid pixelation and blurry images (make sure to test them).
+ -  **File Format**: Use **.jpg**, **.jpeg**, **.png** or **.gif** formats only.
  -  **Category Folders**: Place each wallpaper in the category folder that best fits its style. `(e.g., Sci-fi, Dracula)`.
 
 
