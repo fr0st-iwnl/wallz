@@ -19,10 +19,10 @@ All of our themes are listed below.
 <div align="center">
   <table><tr><td>
 
-[![AbyssGreen](https://placehold.co/130x30/373C3F/83B38E?text=AbyssGreen&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/AbyssGreen)
+[![Abyssal-Wave](https://placehold.co/130x30/373C3F/83B38E?text=Abyssal+Wave&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Abyssal%20Wave)
+[![Animated](https://placehold.co/130x30/007ACC/FFFFFF?text=Animated&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Animated)
 [![Catppuccin-Latte](https://placehold.co/130x30/dd7878/eff1f5?text=Catppuccin+Latte&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Catppuccin%20Latte)
 [![Catppuccin-Mocha](https://placehold.co/130x30/b4befe/11111b?text=Catppuccin+Mocha&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Catppuccin%20Mocha)
-[![Decay-Green](https://placehold.co/130x30/14161E/95D3AF?text=Decay+Green&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Decay%20Green)
 [![Dracula](https://placehold.co/130x30/2B2E3B/607988?text=Dracula&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Dracula)
 [![Edge-Runner](https://placehold.co/130x30/fada16/000000?text=Edge+Runner&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Edge%20Runner)
 [![Frosted-Glass](https://placehold.co/130x30/7ed6ff/1e4c84?text=Frosted+Glass&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Frosted%20Glass)
@@ -30,6 +30,7 @@ All of our themes are listed below.
 [![Green-Lush](https://placehold.co/130x30/89E574/153550?text=Green+Lush&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Green%20Lush)
 [![Greenify](https://placehold.co/130x30/0e120f/295233?text=Greenify&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Greenify)
 [![Gruvbox-Retro](https://placehold.co/130x30/353842/ADAE89?text=Gruvbox+Retro&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Gruvbox%20Retro)
+[![Lucid-Aurora](https://placehold.co/130x30/7aa2f7/24283b?text=Lucid+Aurora&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Lucid%20Aurora)
 [![Mac-OS](https://placehold.co/130x30/857990/B9D7EA?text=Mac+OS&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Mac%20OS)
 [![Material-Sakura](https://placehold.co/130x30/f2e9e1/b4637a?text=Material+Sakura&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Material%20Sakura)
 [![Monokai](https://placehold.co/130x30/2d2a2e/f92672?text=Monokai&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Monokai)
@@ -37,13 +38,12 @@ All of our themes are listed below.
 [![One-Dark](https://placehold.co/130x30/1E212B/5B6B76?text=One+Dark&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/One%20Dark)
 [![Paranoid-Sweet](https://placehold.co/130x30/821595/51ABAB?text=Paranoid+Sweet&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Paranoid%20Sweet)
 [![Rain-Dark](https://placehold.co/130x30/1E2233/822195?text=Rain+Dark&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Rain%20Dark)
-[![Red-Stone](https://placehold.co/130x30/e56d61/2d1c1c?text=Red+Stone&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Red%20Stone)
 [![Rosé-Pine](https://placehold.co/130x30/c4a7e7/191724?text=Rosé+Pine&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Rosé%20Pine)
 [![Scarlet-Night](https://placehold.co/130x30/FF0000/0A0A0A?text=Scarlet+Night&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Scarlet%20Night)
 [![Sci-fi](https://placehold.co/130x30/0D55B2/249CB6?text=Sci+fi&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Sci-fi)
+[![Solar-Pulse](https://placehold.co/130x30/FFA500/0A0A0A?text=Solar+Pulse&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Solar%20Pulse)
 [![Solarized-Dark](https://placehold.co/130x30/044655/259E9C?text=Solarized+Dark&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Solarized%20Dark)
 [![Synth-Wave](https://placehold.co/130x30/495495/ff7edb?text=Synth+Wave&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Synth%20Wave)
-[![Tokyo-Night](https://placehold.co/130x30/7aa2f7/24283b?text=Tokyo+Night&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Tokyo%20Night)
 [![Windows-11](https://placehold.co/130x30/277AE6/D2DCFD?text=Windows+11&font=Oswald)](https://github.com/fr0st-iwnl/wallz/tree/main/Windows%2011)
 
   </td></tr></table>
@@ -57,9 +57,9 @@ All of our themes are listed below.
     <div align="left"><table><tr></tr><tr><td>
     <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Catppuccin%20Mocha/04.%20Catppuccin%20Mocha.png">
     <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Catppuccin%20Mocha/05.%20Catppuccin%20Mocha.png">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Catppuccin%20Mocha/26.%20Catppuccin%20Mocha.jpg">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Catppuccin%20Mocha/27.%20Catppuccin%20Mocha.png">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Catppuccin%20Mocha/15.%20Catppuccin%20Mocha.jpg">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Catppuccin%20Mocha/26.%20Catppuccin%20Mocha.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Catppuccin%20Mocha/30.%20Catppuccin%20Mocha.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Catppuccin%20Mocha/23.%20Catppuccin%20Mocha.png">
       </tr></table></div>
   </p>
 
@@ -67,32 +67,32 @@ All of our themes are listed below.
   <p align="center">
     <div align="left"><table><tr></tr><tr><td>
     <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Graphite%20Mono/02.%20Graphite%20Mono.jpg">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Graphite%20Mono/16.%20Graphite%20Mono.jpg">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Graphite%20Mono/15.%20Graphite%20Mono.jpg">
     <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Graphite%20Mono/22.%20Graphite%20Mono.png">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Graphite%20Mono/23.%20Graphite%20Mono.jpg">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Graphite%20Mono/18.%20Graphite%20Mono.jpg">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Graphite%20Mono/25.%20Graphite%20Mono.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Graphite%20Mono/20.%20Graphite%20Mono.png">
       </tr></table></div>
   </p>
   
   <h4 align="center"><div align="center"><table><tr></tr><tr><td>🌿 Green Lush</tr></table></div></h4>
   <p align="center">
     <div align="left"><table><tr></tr><tr><td>
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Green%20Lush/03.%20Green%20Lush.png">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Green%20Lush/09.%20Green%20Lush.jpg">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Green%20Lush/05.%20Green%20Lush.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Green%20Lush/02.%20Green%20Lush.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Green%20Lush/08.%20Green%20Lush.jpg">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Green%20Lush/03.%20Green%20Lush.png">
     <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Green%20Lush/04.%20Green%20Lush.png">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Green%20Lush/12.%20Green%20Lush.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Green%20Lush/12.%20Green%20Lush.jpg">
       </tr></table></div>
   </p>
 
-   <h4 align="center"><div align="center"><table><tr></tr><tr><td>🌹 Red Stone</tr></table></div></h4>
+   <h4 align="center"><div align="center"><table><tr></tr><tr><td>🩸 Scarlet Night</tr></table></div></h4>
   <p align="center">
     <div align="left"><table><tr></tr><tr><td>
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Red%20Stone/01.%20Red%20Stone.jpg">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Red%20Stone/07.%20Red%20Stone.png">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Red%20Stone/09.%20Red%20Stone.jpg">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Red%20Stone/11.%20Red%20Stone.jpg">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Red%20Stone/10.%20Red%20Stone.jpg">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Scarlet%20Night/02.%20Scarlet%20Night.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Scarlet%20Night/01.%20Scarlet%20Night.jpg">
+    <img src="https://github.com/fr0st-iwnl/wallz/blob/main/Scarlet%20Night/08.%20Scarlet%20Night.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Scarlet%20Night/17.%20Scarlet%20Night.jpg">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Scarlet%20Night/12.%20Scarlet%20Night.jpg">
       </tr></table></div>
   </p>
 
@@ -100,13 +100,25 @@ All of our themes are listed below.
   <p align="center">
     <div align="left"><table><tr></tr><tr><td>
     <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Paranoid%20Sweet/01.%20Paranoid%20Sweet.png">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Paranoid%20Sweet/05.%20Paranoid%20Sweet.png">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Paranoid%20Sweet/06.%20Paranoid%20Sweet.png">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Paranoid%20Sweet/25.%20Paranoid%20Sweet.jpg">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Paranoid%20Sweet/28.%20Paranoid%20Sweet.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Paranoid%20Sweet/03.%20Paranoid%20Sweet.png">
     <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Paranoid%20Sweet/20.%20Paranoid%20Sweet.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Paranoid%20Sweet/25.%20Paranoid%20Sweet.jpg">
       </tr></table></div>
   </p>
 
+<!---
+  <h4 align="center"><div align="center"><table><tr></tr><tr><td>🎞️ Animated</tr></table></div></h4>
+  <p align="center">
+    <div align="left"><table><tr></tr><tr><td>
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Animated/03.%20Animated.gif">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Animated/07.%20Animated.gif">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Animated/09.%20Animated.gif">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Animated/08.%20Animated.gif">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Animated/02.%20Animated.gif">
+      </tr></table></div>
+  </p>
+---->
   <h4 align="center"><div align="center"><table><tr></tr><tr><td>📁 And More...</tr></table></div></h4>
 
 </details>
