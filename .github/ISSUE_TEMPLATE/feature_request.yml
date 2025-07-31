@@ -15,12 +15,21 @@ body:
         - label: The file is a .jpg, .jpeg, .png, or .gif.
           required: true
 
-  - type: input
-    id: wallpaper_category
+  - type: textarea
+    id: wallpaper_uploads
     attributes:
-      label: What category should the wallpaper be added to?
-      description: Type the folder name where this wallpaper belongs (e.g., Greenify, Sci-fi, Dracula).
-      placeholder: e.g., Sci-fi
+      label: Upload your wallpaper(s) here and mention their categories above each image
+      description: |
+        Drag and drop your wallpaper files below, then type the category folder name above each image.
+        For example:
+
+        ```
+        Sci-fi
+        [upload your Sci-fi wallpaper here]
+
+        Nature
+        [upload your Nature wallpaper here]
+        ```
     validations:
       required: true
 
@@ -32,3 +41,4 @@ body:
       description: Add any extra info, credits, or notes here (if needed).
     validations:
       required: false
+
