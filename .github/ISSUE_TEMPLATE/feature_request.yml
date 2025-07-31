@@ -1,0 +1,36 @@
+name: Add a Wallpaper to the Collection
+description: Share a cool wallpaper and help grow the collection!
+labels: ["wallpaper", "feature-request"]
+
+body:
+  - type: checkboxes
+    attributes:
+      label: Before You Submit *
+      description: Please check all the boxes to make sure your wallpaper follows the rules.
+      options:
+        - label: The wallpaper is at least 1920x1080 in size.
+          required: true
+        - label: The image is clear and not blurry or pixelated.
+          required: true
+        - label: The file is a .jpg, .jpeg, .png, or .gif.
+          required: true
+        - label: I put the wallpaper in the right folder (like Sci-fi, Dracula, etc.).
+          required: true
+
+  - type: input
+    id: wallpaper_category
+    attributes:
+      label: What category should the wallpaper be added to?
+      description: Type the folder name where this wallpaper belongs (e.g., Greenify, Sci-fi, Dracula).
+      placeholder: e.g., Sci-fi
+    validations:
+      required: true
+
+
+  - type: textarea
+    id: extra_info
+    attributes:
+      label: Anything else to add?
+      description: Add any extra info, credits, or notes here (if needed).
+    validations:
+      required: false
