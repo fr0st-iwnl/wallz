@@ -14,8 +14,6 @@ body:
           required: true
         - label: The file is a .jpg, .jpeg, .png, or .gif.
           required: true
-        - label: I put the wallpaper in the right folder (like Sci-fi, Dracula, etc.).
-          required: true
 
   - type: input
     id: wallpaper_category
