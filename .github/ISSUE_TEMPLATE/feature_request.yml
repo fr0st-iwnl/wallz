@@ -20,7 +20,7 @@ body:
     attributes:
       label: Upload your wallpaper(s) here and mention their categories above each image
       description: |
-        Drag and drop your wallpaper files below, then type the category folder name above each image.
+        Drag and drop your wallpaper files below, then **type the category folder name above each image.**
         For example:
 
         ```
@@ -30,6 +30,8 @@ body:
         Nature
         [upload your Nature wallpaper here]
         ```
+
+        Make sure your images upload correctly and display properly before submitting.
     validations:
       required: true
 
