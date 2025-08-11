@@ -24,6 +24,31 @@ def supports_color():
     """
     Returns True if the running system's terminal supports color, and False otherwise.
     """
+    # Force enable colors if we're in Windows Terminal
+    if os.environ.get('WT_SESSION'):
+        return True
+    
+    # Check for other Windows terminals that support ANSI
+    if sys.platform == 'win32':
+        # Modern Windows 10+ supports ANSI in cmd and powershell
+        import platform
+        try:
+            version = platform.version().split('.')
+            major_version = int(version[0])
+            if major_version >= 10:
+                return True
+        except:
+            pass
+        
+        # Legacy ANSICON support
+        if 'ANSICON' in os.environ:
+            return True
+        
+        # Check if we're in a modern terminal
+        if any(term in os.environ.get('TERM', '') for term in ['xterm', 'color']):
+            return True
+    
+    # Original logic for other platforms
     plat = sys.platform
     supported_platform = plat != 'Pocket PC' and (plat != 'win32' or 'ANSICON' in os.environ)
     
@@ -45,15 +70,42 @@ class Colors:
     RESET = '\033[0m' if supports_color() else ''
 
 def rename_wallpapers():
-    print(f"{Colors.YELLOW}⚠️  IMPORTANT: This script will rename your wallpaper files.{Colors.RESET}")
-    print(f"{Colors.YELLOW}   If you're not sure what this does, press Ctrl+C to cancel.{Colors.RESET}")
-    print(f"{Colors.YELLOW}   Press Enter to continue...{Colors.RESET}")
+    # re-initialize colors to make sure they work
+    if sys.platform == 'win32':
+        try:
+            import ctypes
+            kernel32 = ctypes.windll.kernel32
+            kernel32.SetConsoleMode(kernel32.GetStdHandle(-11), 7)
+        except:
+            pass
+    
+    print(f"\n{Colors.BOLD}{Colors.CYAN}✏️ Wallz - Wallpaper Organizer{Colors.RESET}")
+    print(f"{Colors.CYAN}{'═' * 55}{Colors.RESET}")
+    print(f"{Colors.GREEN}✨ Welcome! This tool helps organize your wallpapers{Colors.RESET}")
+    print(f"{Colors.GREEN}   by giving them clean, numbered names.{Colors.RESET}")
+    print()
+    
+    print(f"{Colors.BLUE}📋 What this does:{Colors.RESET}")
+    print(f"   • Finds all images in your folders")
+    print(f"   • Renames them: 01, 02, 03... + folder name")
+    print(f"   • Keeps your files safe (no data lost)")
+    print(f"   • Example: 'random_pic.jpg' → '01. [Folder_Name]'")
+    print()
+    
+    print(f"{Colors.CYAN}{'─' * 55}{Colors.RESET}")
+    print(f"{Colors.GREEN}🔗 Script from: {Colors.UNDERLINE}https://github.com/fr0st-iwnl/wallz{Colors.RESET}")
+    print(f"{Colors.GREEN}👤 Author: @fr0st.xyz{Colors.RESET}")
+    print(f"{Colors.CYAN}{'─' * 55}{Colors.RESET}")
+    print()
+    
+    print(f"{Colors.BOLD}Ready to organize? Press Enter to start or Ctrl+C to cancel{Colors.RESET}")
+    print()
     
     try:
         input()
     except KeyboardInterrupt:
         print("")
-        print(f"\n{Colors.BLUE}Script canceled. No changes were made.{Colors.RESET}")
+        print(f"\n{Colors.BLUE}👋 No problem! Cancelled - your files are unchanged.{Colors.RESET}")
         print("")
         return
     
@@ -67,52 +119,52 @@ def rename_wallpapers():
     for directory in directories:
         # supported images formats :)
         image_files = []
-        # Search for both lowercase and uppercase extensions
+        # SEARCH for both lowercase and uppercase extensions
         for ext_pattern in ['*.png', '*.jpg', '*.jpeg', '*.webp', '*.PNG', '*.JPG', '*.JPEG', '*.WEBP', '*.gif', '*.GIF']:
             image_files.extend(glob.glob(os.path.join(directory, ext_pattern)))
         
-        # Remove duplicates (in case a file matches both lowercase and uppercase patterns)
+        # remove duplicates (in case a file matches both lowercase and uppercase patterns)
         image_files = list(set(image_files))
         
         if not image_files:
             continue
         
-        # Determine the padding needed based on the number of files
+        # determine the padding needed based on the number of files
         padding = len(str(len(image_files)))
         padding = max(2, padding)  # At least 2 digits (01, 02, etc.)
         
-        # If there are 100 or more files, use at least 3 digits
+        # if there are 100 or more files, use at least 3 digits
         if len(image_files) >= 100:
             padding = max(3, padding)
         
-        # Extract current numbers from filenames to preserve order if possible
+        # extract current numbers from filenames to preserve order if possible
         numbered_files = []
-        current_files_map = {}  # Map of file paths to their current filenames
+        current_files_map = {}  # map of file paths to their current filenames
         
         for file_path in image_files:
             filename = os.path.basename(file_path)
             current_files_map[file_path] = filename
             
-            # Try to extract existing number from the filename
+            # try to extract existing number from the filename
             match = re.match(r'^(\d+)[.\s]', filename)
             if match:
                 number = int(match.group(1))
             else:
-                # If no number, assign a large number to put it at the end
+                # if no number, assign a large number to put it at the end
                 number = 9999
             numbered_files.append((number, file_path))
         
-        # Sort files by their extracted numbers
+        # sort files by their extracted numbers
         numbered_files.sort()
         
-        # Create new filenames with proper padding
+        # create new filenames with proper padding
         target_filenames = {}
         for i, (_, file_path) in enumerate(numbered_files, 1):
             extension = os.path.splitext(current_files_map[file_path])[1]
             new_filename = f"{i:0{padding}d}. {directory}{extension}"
             target_filenames[file_path] = new_filename
         
-        # Track if any files in this directory need renaming
+        # track if any files in this directory need renaming
         dir_renamed = 0
         
         # Use a temporary directory to avoid conflicts during renaming
@@ -205,7 +257,7 @@ def rename_wallpapers():
                     except Exception as e:
                         print(f"  {Colors.RED}[✗] Error moving renamed file back from temp dir: {e}{Colors.RESET}")
             
-            # Clean up the temp directory
+            # clean up the temp directory
             os.rmdir(temp_dir)
             
             if dir_renamed > 0:
@@ -222,7 +274,7 @@ def rename_wallpapers():
                 except:
                     pass
     
-    # Print completion message YaY :D
+    # print completion message YaY :D
     if total_renamed > 0:
         print(f"\n{Colors.GREEN}[✓] Done! Renamed {Colors.BOLD}{total_renamed}{Colors.RESET}{Colors.GREEN} files across {Colors.BOLD}{total_dirs_processed}{Colors.RESET}{Colors.GREEN} directories.{Colors.RESET}")
         print("")
