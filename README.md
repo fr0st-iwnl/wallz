@@ -14,16 +14,22 @@ A collection of cool wallpapers for your desktop.
 
 # 🐍 Rename Wallpapers Script
 
-> [!NOTE]
-> You can use the [rename_wallpapers.py](https://github.com/fr0st-iwnl/wallz/blob/main/rename_wallpapers.py) script to keep your wallpapers organized.
-> <br>
-> It renames them to a format like **01 [Theme_Name].jpg**, **02 [Theme_Name].jpg**, and so on.
-> <br>
-> - To use it, open a terminal in the `wallz` folder and run:
-> ```
+> [!NOTE]  
+> You can use the [rename_wallpapers.py](https://github.com/fr0st-iwnl/wallz/blob/main/rename_wallpapers.py) script to keep your wallpapers organized.  
+> It renames them to a format like **01 [Theme_Name].jpg**, **02 [Theme_Name].jpg**, and so on.  
+>  
+> If you download the **wallz.zip** pack from [Releases](https://github.com/fr0st-iwnl/wallz/releases/latest), it only includes the normal wallpapers it does **NOT** include the Python script.  
+> This is because we want to avoid adding extra **bloat** to the wallpapers package.  
+>  
+> If you want to use the Python tool, you can download it separately from the [Releases](https://github.com/fr0st-iwnl/wallz/releases/latest) and place it in your `wallz` folder.  
+>  
+> Then, open a terminal in the `wallz` folder and run:  
+> ```bash
 > python3 rename_wallpapers.py
-> ```
+> ```  
+>  
 > **Feel free to fork the repo and make your own version!**
+
 
 
 # 🎨 Themes
