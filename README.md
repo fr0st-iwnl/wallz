@@ -68,7 +68,7 @@ All of our themes are listed below.
   </td></tr></table>
 </div>
 
-<details>
+<details id="preview">
  <summary>🔍 <strong>Preview</strong> some of the themes from above :)</summary>
 
   <h4 align="center"><div align="center"><table><tr></tr><tr><td>☕ Catppuccin Mocha</tr></table></div></h4>
@@ -139,6 +139,12 @@ All of our themes are listed below.
   </p>
 ---->
   <h4 align="center"><div align="center"><table><tr></tr><tr><td>📁 And More...</tr></table></div></h4>
+
+<p align="right">
+  <a href="#preview"><kbd> <br> ↑ <br> </kbd></a>
+</p>
+
+
 
 </details>
 
