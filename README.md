@@ -74,55 +74,55 @@ All of our themes are listed below.
   <h4 align="center"><div align="center"><table><tr></tr><tr><td>☕ Catppuccin Mocha</tr></table></div></h4>
   <p align="center">
     <div align="left"><table><tr></tr><tr><td>
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Catppuccin%20Mocha/04.%20Catppuccin%20Mocha.png">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Catppuccin%20Mocha/05.%20Catppuccin%20Mocha.png">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Catppuccin%20Mocha/26.%20Catppuccin%20Mocha.png">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Catppuccin%20Mocha/30.%20Catppuccin%20Mocha.png">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Catppuccin%20Mocha/23.%20Catppuccin%20Mocha.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/readme-preview-walls/Catppuccin%20Mocha/01.%20Catppuccin%20Mocha.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/readme-preview-walls/Catppuccin%20Mocha/02.%20Catppuccin%20Mocha.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/readme-preview-walls/Catppuccin%20Mocha/03.%20Catppuccin%20Mocha.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/readme-preview-walls/Catppuccin%20Mocha/04.%20Catppuccin%20Mocha.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/readme-preview-walls/Catppuccin%20Mocha/05.%20Catppuccin%20Mocha.png">
       </tr></table></div>
   </p>
 
   <h4 align="center"><div align="center"><table><tr></tr><tr><td>🪨 Graphite Mono</tr></table></div></h4>
   <p align="center">
     <div align="left"><table><tr></tr><tr><td>
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Graphite%20Mono/02.%20Graphite%20Mono.jpg">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Graphite%20Mono/15.%20Graphite%20Mono.jpg">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Graphite%20Mono/22.%20Graphite%20Mono.png">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Graphite%20Mono/25.%20Graphite%20Mono.png">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Graphite%20Mono/20.%20Graphite%20Mono.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/readme-preview-walls/Graphite%20Mono/01.%20Graphite%20Mono.jpg">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/readme-preview-walls/Graphite%20Mono/02.%20Graphite%20Mono.jpg">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/readme-preview-walls/Graphite%20Mono/03.%20Graphite%20Mono.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/readme-preview-walls/Graphite%20Mono/04.%20Graphite%20Mono.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/readme-preview-walls/Graphite%20Mono/05.%20Graphite%20Mono.png">
       </tr></table></div>
   </p>
   
   <h4 align="center"><div align="center"><table><tr></tr><tr><td>🌿 Green Lush</tr></table></div></h4>
   <p align="center">
     <div align="left"><table><tr></tr><tr><td>
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Green%20Lush/02.%20Green%20Lush.png">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Green%20Lush/08.%20Green%20Lush.jpg">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Green%20Lush/03.%20Green%20Lush.png">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Green%20Lush/04.%20Green%20Lush.png">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Green%20Lush/12.%20Green%20Lush.jpg">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/readme-preview-walls/Green%20Lush/01.%20Green%20Lush.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/readme-preview-walls/Green%20Lush/02.%20Green%20Lush.jpg">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/readme-preview-walls/Green%20Lush/03.%20Green%20Lush.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/readme-preview-walls/Green%20Lush/04.%20Green%20Lush.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/readme-preview-walls/Green%20Lush/05.%20Green%20Lush.jpg">
       </tr></table></div>
   </p>
 
    <h4 align="center"><div align="center"><table><tr></tr><tr><td>🩸 Scarlet Night</tr></table></div></h4>
   <p align="center">
     <div align="left"><table><tr></tr><tr><td>
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Scarlet%20Night/02.%20Scarlet%20Night.png">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Scarlet%20Night/01.%20Scarlet%20Night.jpg">
-    <img src="https://github.com/fr0st-iwnl/wallz/blob/main/Scarlet%20Night/08.%20Scarlet%20Night.png">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Scarlet%20Night/17.%20Scarlet%20Night.jpg">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Scarlet%20Night/12.%20Scarlet%20Night.jpg">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/readme-preview-walls/Scarlet%20Night/01.%20Scarlet%20Night.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/readme-preview-walls/Scarlet%20Night/02.%20Scarlet%20Night.jpg">
+    <img src="https://github.com/fr0st-iwnl/wallz/blob/readme-preview-walls/Scarlet%20Night/03.%20Scarlet%20Night.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/readme-preview-walls/Scarlet%20Night/04.%20Scarlet%20Night.jpg">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/readme-preview-walls/Scarlet%20Night/05.%20Scarlet%20Night.jpg">
       </tr></table></div>
   </p>
 
   <h4 align="center"><div align="center"><table><tr></tr><tr><td>🍬 Paranoid Sweet</tr></table></div></h4>
   <p align="center">
     <div align="left"><table><tr></tr><tr><td>
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Paranoid%20Sweet/01.%20Paranoid%20Sweet.png">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Paranoid%20Sweet/28.%20Paranoid%20Sweet.png">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/main/Paranoid%20Sweet/03.%20Paranoid%20Sweet.png">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Paranoid%20Sweet/20.%20Paranoid%20Sweet.png">
-    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/main/Paranoid%20Sweet/25.%20Paranoid%20Sweet.jpg">
+    <img src="https://github.com/fr0st-iwnl/wallz/blob/readme-preview-walls/Paranoid%20Sweet/01.%20Paranoid%20Sweet.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/readme-preview-walls/Paranoid%20Sweet/02.%20Paranoid%20Sweet.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/readme-preview-walls/Paranoid%20Sweet/03.%20Paranoid%20Sweet.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/readme-preview-walls/Paranoid%20Sweet/04.%20Paranoid%20Sweet.png">
+    <img src="https://raw.githubusercontent.com/fr0st-iwnl/wallz/refs/heads/readme-preview-walls/Paranoid%20Sweet/05.%20Paranoid%20Sweet.jpg">
       </tr></table></div>
   </p>
 
