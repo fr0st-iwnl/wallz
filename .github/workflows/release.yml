@@ -1,0 +1,42 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - '*'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Normalize wallpaper names
+        run: python rename_wallpapers.py --root . --yes
+
+      - name: Build release assets
+        run: |
+          python .github/scripts/build_release.py \
+            --tag "${GITHUB_REF_NAME}" \
+            --repo "${GITHUB_REPOSITORY}" \
+            --output dist
+
+      - name: Create GitHub release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.ref_name }}
+          name: Wallz Pack ${{ github.ref_name }}
+          body_path: dist/release-notes.md
+          files: |
+            dist/wallz.zip
+            dist/rename_wallpapers.py
